@@ -22,3 +22,10 @@
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark" />
 </a>
 </div>
+
+### My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wisphes&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wisphes&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wisphes&theme=github_dark"/>
+</div>
