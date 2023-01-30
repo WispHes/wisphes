@@ -1,3 +1,9 @@
+### Всем привет! Меня зовут Дмитрий, я backend разработчик
+В программировании с 2022 года.
+Стек технологий:
+**Python, Golang, Django, Django REST Framework, REST API, Postman, PostgreSQL, MySQL, SQLite, ClickHouse,  Docker, Yandex.Cloud, JSON, XML, Git, CI/CD, Nginx, pytest, unittest, venv ООП, CSS, HTML, PHP, CMS Wordpress, 1С-Битрикс, Apache**
+
+
 ### My latest works:
 <!-- START -->
 - [REST API YaMDb - база отзывов пользователей о фильмах, книгах и музыке.](https://github.com/WispHes/api_yamdb)
@@ -6,3 +12,13 @@
 - [Fitness tracker - программный модуль фитнес-трекера, который обрабатывает данные для трех видов тренировок: для бега,    спортивной ходьбы и плавания.](https://github.com/WispHes/hw_python_oop)
 - [Homework Bot - бот для проверки статуса домашней работы на код ревью в Яндекс.Практикум.](https://github.com/WispHes/homework_bot)
 <!-- END -->
+
+### My Certificates:
+<div>
+<a href="https://stepik.org/cert/1335197">
+  <img  align="center" height="130" style="margin-right: 10px" src="https://stepik.org/cert/1335197" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=themasterid&layout=compact&theme=dark">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themasterid&layout=compact&theme=dark" />
+</a>
+</div>
