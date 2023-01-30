@@ -1,6 +1,6 @@
 ### Всем привет! Меня зовут Дмитрий, я backend разработчик
-# В программировании с 2022 года.
-# Стек технологий:
+В программировании с 2022 года.
+### Стек технологий:
 **Python, Golang, Django, Django REST Framework, REST API, Postman, PostgreSQL, MySQL, SQLite, ClickHouse,  Docker, Yandex.Cloud, JSON, XML, Git, CI/CD, Nginx, pytest, unittest, venv ООП, CSS, HTML, PHP, CMS Wordpress, 1С-Битрикс, Apache**
 
 
