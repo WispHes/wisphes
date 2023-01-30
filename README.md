@@ -13,8 +13,17 @@
 - [Homework Bot - бот для проверки статуса домашней работы на код ревью в Яндекс.Практикум.](https://github.com/WispHes/homework_bot)
 <!-- END -->
 
+## The main technology stack:
 
-### My stat
+<img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img height="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img  height="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+
+
+### My stat:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark">
   <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark" />
