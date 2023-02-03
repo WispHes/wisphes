@@ -6,7 +6,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark">
   <img  align="center" height="120"style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark">
+<a href="https://github.com/WispHes?tab=repositories">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark" />
 </a>
 </div>
