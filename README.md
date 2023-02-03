@@ -23,7 +23,7 @@
 ## The main technology stack:
 **Python, Golang, Django, Django REST Framework, REST API, Postman, PostgreSQL, MySQL, SQLite, ClickHouse,  Docker, Yandex.Cloud, JSON, XML, Git, CI/CD, Nginx, pytest, unittest, venv ООП, CSS, HTML, PHP, CMS Wordpress, 1С-Битрикс, Apache**
 <div>
-  <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" href="https://www.python.org/" />
+  <a href="https://www.python.org/"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img height="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img  height="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
