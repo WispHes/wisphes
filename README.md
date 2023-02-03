@@ -24,9 +24,9 @@
 **Python, Golang, Django, Django REST Framework, REST API, Postman, PostgreSQL, MySQL, SQLite, ClickHouse,  Docker, Yandex.Cloud, JSON, XML, Git, CI/CD, Nginx, pytest, unittest, venv ООП, CSS, HTML, PHP, CMS Wordpress, 1С-Битрикс, Apache**
 <div>
   <a href="https://www.python.org/"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img height="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img  height="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <a href="https://go.dev/"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <a href="https://www.djangoproject.com/"><img height="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <a href="https://www.postgresql.org/"><img  height="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <a href="https://www.docker.com/"><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
