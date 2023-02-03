@@ -11,10 +11,6 @@
 </a>
 </div>
 
-### Стек технологий:
-**Python, Golang, Django, Django REST Framework, REST API, Postman, PostgreSQL, MySQL, SQLite, ClickHouse,  Docker, Yandex.Cloud, JSON, XML, Git, CI/CD, Nginx, pytest, unittest, venv ООП, CSS, HTML, PHP, CMS Wordpress, 1С-Битрикс, Apache**
-
-
 ### My latest works:
 <!-- START -->
 - [REST API YaMDb - база отзывов пользователей о фильмах, книгах и музыке.](https://github.com/WispHes/api_yamdb)
@@ -25,6 +21,7 @@
 <!-- END -->
 
 ## The main technology stack:
+**Python, Golang, Django, Django REST Framework, REST API, Postman, PostgreSQL, MySQL, SQLite, ClickHouse,  Docker, Yandex.Cloud, JSON, XML, Git, CI/CD, Nginx, pytest, unittest, venv ООП, CSS, HTML, PHP, CMS Wordpress, 1С-Битрикс, Apache**
 <div>
   <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
