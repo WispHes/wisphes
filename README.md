@@ -1,5 +1,16 @@
 ### Всем привет! Меня зовут Дмитрий, я backend разработчик
 В программировании с 2022 года.
+
+### My stat:
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark">
+  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark" />
+</a>
+</div>
+
 ### Стек технологий:
 **Python, Golang, Django, Django REST Framework, REST API, Postman, PostgreSQL, MySQL, SQLite, ClickHouse,  Docker, Yandex.Cloud, JSON, XML, Git, CI/CD, Nginx, pytest, unittest, venv ООП, CSS, HTML, PHP, CMS Wordpress, 1С-Битрикс, Apache**
 
@@ -22,13 +33,3 @@
   <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
-
-### My stat:
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark">
-  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark" />
-</a>
-</div>
