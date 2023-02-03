@@ -4,10 +4,10 @@
 ### My stat:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark">
-  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark" />
+  <img  align="center" height="200" width="400" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark" />
+  <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark" />
 </a>
 </div>
 
