@@ -1,6 +1,6 @@
 ### Всем привет! Меня зовут Дмитрий, я backend разработчик
 
-<!-- ### My stat:
+### My stat:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark">
   <img  align="center" height="120"style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=wisphes&hide=contribs&show_icons=true&theme=dark" />
@@ -8,7 +8,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisphes&layout=compact&theme=dark" />
 </a>
-</div> -->
+</div>
 
 ### My latest works:
 <!-- START -->
