@@ -12,7 +12,7 @@
 
 ### My latest works:
 <!-- START -->
-- [foodgram-project-react - это сайт, на котором можно публиковать собственные рецепты, добавлять чужие рецепты в избранное, подписываться на других авторов и создавать список покупок для заданных блюд.](https://github.com/WispHes/foodgram-project-react)
+- [Foodgram - это сайт, на котором можно публиковать собственные рецепты, добавлять чужие рецепты в избранное, подписываться на других авторов и создавать список покупок для заданных блюд.](https://github.com/WispHes/foodgram-project-react)
 - [REST API YaMDb - база отзывов пользователей о фильмах, книгах и музыке.](https://github.com/WispHes/api_yamdb)
 - [Yatube - соц. сеть для публикации дневников.](https://github.com/WispHes/hw05_final)
 - [REST API для проекта Yatube.](https://github.com/WispHes/api_final_yatube)
