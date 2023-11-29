@@ -10,7 +10,7 @@
 </a>
 </div>
 
-### My latest works:
+### My latest works from python:
 <!-- START -->
 - [Foodgram - сайт, на котором можно публиковать собственные рецепты, добавлять чужие рецепты в избранное, подписываться на других авторов и создавать список покупок для заданных блюд.](https://github.com/WispHes/foodgram-project-react)
 - [REST API YaMDb - база отзывов пользователей о фильмах, книгах и музыке.](https://github.com/WispHes/api_yamdb)
