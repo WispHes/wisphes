@@ -10,6 +10,13 @@
 </a>
 </div>
 
+### My latest works from golang:
+<!-- START -->
+- [Проект с использованием MongpDB](https://github.com/WispHes/goAndMongoDB)
+- [CRUD](https://github.com/WispHes/goMoviesCrud)
+- [Web Server](https://github.com/WispHes/webServerInGo)
+<!-- END -->
+
 ### My latest works from python:
 <!-- START -->
 - [Foodgram - сайт, на котором можно публиковать собственные рецепты, добавлять чужие рецепты в избранное, подписываться на других авторов и создавать список покупок для заданных блюд.](https://github.com/WispHes/foodgram-project-react)
