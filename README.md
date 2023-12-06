@@ -12,6 +12,7 @@
 
 ### My latest works from golang:
 <!-- START -->
+- [Web Server с использованем библиотеки gorilla](https://github.com/WispHes/webApplication)
 - [Проект с использованием MongpDB](https://github.com/WispHes/goAndMongoDB)
 - [CRUD](https://github.com/WispHes/goMoviesCrud)
 - [Web Server](https://github.com/WispHes/webServerInGo)
